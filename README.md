@@ -30,9 +30,15 @@ Contato
 
 Para mais informações sobre o projeto "Conversor de moedas", entre em contato através dos seguintes perfis no GitHub:
 
+
 https://github.com/Flagusto
+
 https://github.com/gabrielsaugusto
+
 https://github.com/Carlos-Magalhaess
+
 https://github.com/JoaoPAlen
+
 https://github.com/FaelProenca
+
 Agradecemos sua atenção e esperamos que o projeto "Conversor de moedas" inspire novas ideias e oportunidades de aprendizado!
